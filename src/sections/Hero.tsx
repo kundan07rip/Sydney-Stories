@@ -43,7 +43,7 @@ export default function Hero() {
 
             <div className="relative z-20 flex flex-col items-center text-center px-4 mt-20">
                 <motion.h1
-                    className="text-6xl md:text-8xl lg:text-[10rem] font-serif text-brand-gold tracking-tight leading-none mb-6 text-shadow-gold"
+                    className="text-5xl md:text-7xl lg:text-[10rem] font-serif text-brand-gold tracking-tight leading-none mb-6 text-shadow-gold"
                     variants={sentence}
                     initial="hidden"
                     animate="visible"

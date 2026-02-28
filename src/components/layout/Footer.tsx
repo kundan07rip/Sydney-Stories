@@ -57,7 +57,7 @@ export default function Footer() {
                     </div>
 
                     {/* Map Embed */}
-                    <div className="lg:col-span-1 rounded-sm overflow-hidden border border-white/5 h-48 md:h-auto bg-[#1a1a1a]">
+                    <div className="lg:col-span-1 rounded-sm overflow-hidden border border-white/5 h-64 md:h-[300px] lg:h-auto bg-[#1a1a1a]">
                         {/* Dark Styled Google Maps iframe using filter trick */}
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114614.86989445842!2d74.55160359726563!3d25.344485500000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3968c2368dc27083%3A0x60b09312c1143828!2sBhilwara%2C%20Rajasthan!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
