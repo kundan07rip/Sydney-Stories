@@ -1,0 +1,1185 @@
+[
+  {
+    "category": "All Day Long",
+    "items": [
+      {
+        "id": "all-1",
+        "name": "Bananas Foster Brioche French Toast",
+        "price": 513.5,
+        "description": "Topped with fresh bananas caramelized in a classic buttery brown sugar sauce.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "all-2",
+        "name": "Dark Chocolate Milo Mousse Hotcakes",
+        "price": 492.7,
+        "description": "Four luscious chocolate hotcakes filled with chocolate chips and layered with creamy Belgian dark chocolate mousse, topped with more mousse and chocolate chips.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1518557342795-a22627cbcae3?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "all-3",
+        "name": "Honey Hotcakes",
+        "price": 323.7,
+        "description": "",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "all-4",
+        "name": "Thick-Cut Brioche French Toast",
+        "price": 456.3,
+        "description": "Topped with whipped butter and dusted with powdered sugar",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Platters",
+    "items": [
+      {
+        "id": "pla-1",
+        "name": "American Platter",
+        "price": 908.7,
+        "description": "",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "pla-2",
+        "name": "Metatherian Platter",
+        "price": 1168.7,
+        "description": "",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "pla-3",
+        "name": "Sydney Platter",
+        "price": 908.7,
+        "description": "",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1585409893049-74d6cce3f4dc?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Pizza",
+    "items": [
+      {
+        "id": "piz-1",
+        "name": "Barbeque Pizza",
+        "price": 544.7,
+        "description": "Smoky toppings, a true Aussie BBQ flavor.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "piz-2",
+        "name": "Florentine Pizza",
+        "price": 505.7,
+        "description": "Spinach and b",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1515823662972-da6a2e4d3002?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "piz-3",
+        "name": "Garden Fresh Pizza",
+        "price": 479.7,
+        "description": "Seasonal vegetables on a tomato base.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "piz-4",
+        "name": "Margherita Pizza",
+        "price": 492.7,
+        "description": "Fresh mozzarella, basil, and tomato sauce.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "piz-5",
+        "name": "Mushroom Pizza",
+        "price": 453.7,
+        "description": "Juicy mushrooms with mozzarella.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "piz-6",
+        "name": "Paneer Tikka Pizza",
+        "price": 518.7,
+        "description": "An Indo-Aussie fusion pizza with a bold twist",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1460306855393-0410f61241c7?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "piz-7",
+        "name": "Turkish Pizza",
+        "price": 544.7,
+        "description": "A seasonal bread with its natural flavors.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "piz-8",
+        "name": "Sabi-An Pizza",
+        "price": 648.7,
+        "description": "Dark and delicate flavor with burrata cheese.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Burgers",
+    "items": [
+      {
+        "id": "bur-1",
+        "name": "Chimi Churi With Sundried Tomato Burger",
+        "price": 505.7,
+        "description": "Aromatic and tangy with a hint of spice.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "bur-2",
+        "name": "Classic American Cheeseburger",
+        "price": 453.7,
+        "description": "Juicy, cheesy and bold flavors.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "bur-3",
+        "name": "Power Mexican Burger",
+        "price": 479.7,
+        "description": "A bold mix of Mexican spice with an Aussie twist.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1460306855393-0410f61241c7?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "bur-4",
+        "name": "Queensland Burger",
+        "price": 492.7,
+        "description": "A hearty burger inspired by sunny Queensland flavors",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "bur-5",
+        "name": "Ultimate Aussie Burger",
+        "price": 479.7,
+        "description": "Cafe-style stacked burger, a down-under classic",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Sandwiches",
+    "items": [
+      {
+        "id": "san-1",
+        "name": "Classic Caprese Panini",
+        "price": 427.7,
+        "description": "Grated Amul cheese, tomato slices, fresh basil finished with balsamic glaze.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "san-2",
+        "name": "Focaccia Grilled Vegetable & Pesto",
+        "price": 442,
+        "description": "Zucchini, eggplant, bell peppers, basil pesto, mozzarella, and lettuce.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "san-3",
+        "name": "Focaccia Mushroom & Caramelized Onion Melt",
+        "price": 455,
+        "description": "Caramelized onion, mushrooms shredded cheese, melted on fresh bread",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1518557342795-a22627cbcae3?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "san-4",
+        "name": "Grilled Pesto Sandwich (Sourdough)",
+        "price": 455,
+        "description": "Cheese slices, zucchini, onion, red pepper and basil pesto",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "san-5",
+        "name": "Roasted Red Pepper & Creamy Cheese Panini",
+        "price": 427.7,
+        "description": "Sliced roasted red peppers, creamy cheese, and crisp lettuce.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "san-6",
+        "name": "Ultimate Grilled Cheese (Sourdough)",
+        "price": 453.7,
+        "description": "Sliced cheese, mozzarella, shredded Amul toasted with butter.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Pasta & Risotto",
+    "items": [
+      {
+        "id": "pas-1",
+        "name": "Fettuccine Alfredo With Mushrooms",
+        "price": 518.7,
+        "description": "Creamy white sauce with saut",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "pas-2",
+        "name": "Fried Ravioli With Marinara Sauce",
+        "price": 544.7,
+        "description": "Crispy, juicy and cheesy pasta with flavorful sauce.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "pas-3",
+        "name": "Mushroom Ravioli",
+        "price": 557.7,
+        "description": "Filled with mushrooms and herbs",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "pas-4",
+        "name": "Spaghetti With Broccoli & Bechamel",
+        "price": 518.7,
+        "description": "",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1585409893049-74d6cce3f4dc?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "pas-5",
+        "name": "Spinach & Ricotta Ravioli",
+        "price": 557.7,
+        "description": "Pasta pillows filled with spinach and ricotta.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "pas-6",
+        "name": "Tetrazzini",
+        "price": 557.7,
+        "description": "Pasta with Dijon mustard, sundried tomato sauce, baked with mozzarella cheese.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1515823662972-da6a2e4d3002?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "pas-7",
+        "name": "Parmesan & Tomato Risotto",
+        "price": 557.7,
+        "description": "Tangy tomato and parmesan.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "pas-8",
+        "name": "Wild Mushroom Risotto",
+        "price": 557.7,
+        "description": "Arborio rice cooked with earthy mushrooms.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Fries",
+    "items": [
+      {
+        "id": "fri-1",
+        "name": "Classic Fries Topped With Yellow Cheese Sauce",
+        "price": 258.7,
+        "description": "",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1585409893049-74d6cce3f4dc?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "fri-2",
+        "name": "Fries With Bbq Sauce And Cheese",
+        "price": 284.7,
+        "description": "",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "fri-3",
+        "name": "Fries With Chili And Garlic Seasoning",
+        "price": 284.7,
+        "description": "",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1515823662972-da6a2e4d3002?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "fri-4",
+        "name": "Fries With Chipotle And Coriander",
+        "price": 284.7,
+        "description": "",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "fri-5",
+        "name": "Lotus Stem Chips",
+        "price": 388.7,
+        "description": "",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "fri-6",
+        "name": "Sweet Potato Fries",
+        "price": 414.7,
+        "description": "",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Nachos",
+    "items": [
+      {
+        "id": "nac-1",
+        "name": "Baked Nachos With Yellow Cheese Sauce",
+        "price": 362.7,
+        "description": "",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "nac-2",
+        "name": "Nachos Topped With Bbq Sauce And Cottage Cheese",
+        "price": 388.7,
+        "description": "",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "nac-3",
+        "name": "Nachos Topped With Chili And Cheese",
+        "price": 362.7,
+        "description": "",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "nac-4",
+        "name": "Nachos Topped With Chipotle, Jalapeno, And Coriander",
+        "price": 375.7,
+        "description": "",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1460306855393-0410f61241c7?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "nac-5",
+        "name": "Nachos Topped With Garlic Aioli And Seasoning",
+        "price": 375.7,
+        "description": "",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Bruschetta",
+    "items": [
+      {
+        "id": "bru-1",
+        "name": "Avocado, Tomato & Onion Bruschetta",
+        "price": 440.7,
+        "description": "Creamy avocado smash, a true Australian brunch favorite",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1460306855393-0410f61241c7?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "bru-2",
+        "name": "Exotic Vegetable & Olive Tapenade Bruschetta",
+        "price": 388.7,
+        "description": "Fresh vegetables with a coastal-style olive spread.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "bru-3",
+        "name": "Tomato, Basil & Mozzarella Bruschetta",
+        "price": 362.7,
+        "description": "A Mediterranean classic loved in Aussie caf",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "bru-4",
+        "name": "Walnut, Feta And Beet Bruschetta",
+        "price": 453.7,
+        "description": "A nutty, salty, creamy and earthy flavored topping on nice crispy bread.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1518557342795-a22627cbcae3?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "bru-5",
+        "name": "Chimi Churita And Italian Vegi Bruschetta",
+        "price": 414.7,
+        "description": "Jam packed with herbs and seasonal Italian vegetables",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Hot Coffee",
+    "items": [
+      {
+        "id": "hot-1",
+        "name": "Almond Latte",
+        "price": 414.7,
+        "description": "Nutty sophistication",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1518557342795-a22627cbcae3?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-2",
+        "name": "Americano",
+        "price": 193.7,
+        "description": "Refined espresso gently extended with hot water for a deep, balanced flavor.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-3",
+        "name": "Biscoff Latte",
+        "price": 362.7,
+        "description": "The warmth of espresso meets the spiced sweetness of Biscoff",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-4",
+        "name": "Cafe Bombon",
+        "price": 284.7,
+        "description": "Spanish-style delight",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-5",
+        "name": "Cafe Latte",
+        "price": 258.7,
+        "description": "Smooth and comforting",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1585409893049-74d6cce3f4dc?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-6",
+        "name": "Cafe Mocha",
+        "price": 323.7,
+        "description": "Espresso mingled with rich chocolate and a touch of cream",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-7",
+        "name": "Cappuccino",
+        "price": 232.7,
+        "description": "A velvety blend of espresso, steamed milk, and a delicate cloud of froth.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1515823662972-da6a2e4d3002?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-8",
+        "name": "Caramel Latte",
+        "price": 336.7,
+        "description": "Smooth espresso blended with buttery caramel for a sweet finish",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-9",
+        "name": "Coconut Latte",
+        "price": 466.7,
+        "description": "A tropical twist",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-10",
+        "name": "Espresso",
+        "price": 154.7,
+        "description": "A bold shot of pure intensity, capturing the essence of true coffee craft.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-11",
+        "name": "Flat White",
+        "price": 284.7,
+        "description": "Creamy microfoam meets robust espresso in perfect harmony.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1460306855393-0410f61241c7?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-12",
+        "name": "Irish Latte",
+        "price": 336.7,
+        "description": "Hints of Irish cream and caramel elevate this indulgent classic.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-13",
+        "name": "Nutella Latte",
+        "price": 336.7,
+        "description": "Hazelnut chocolate richness swirled into creamy perfection.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-14",
+        "name": "Rose Latte",
+        "price": 323.7,
+        "description": "A graceful infusion of rose essence blended with espresso and milk.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1518557342795-a22627cbcae3?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-15",
+        "name": "Vanilla Latte",
+        "price": 336.7,
+        "description": "A timeless favorite",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Cold Coffee",
+    "items": [
+      {
+        "id": "col-1",
+        "name": "Biscoff Frappe",
+        "price": 466.7,
+        "description": "A luxurious fusion of Biscoff and cold-brew elegance.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "col-2",
+        "name": "Brownie Frappe",
+        "price": 414.7,
+        "description": "Espresso blended with chunks of brownie",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1585409893049-74d6cce3f4dc?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "col-3",
+        "name": "Caramel Frappe",
+        "price": 349.7,
+        "description": "Golden caramel drizzled through cool espresso delight",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "col-4",
+        "name": "Choco Crumble Frappe",
+        "price": 375.7,
+        "description": "Crunchy chocolate bits meet a velvety coffee base.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1515823662972-da6a2e4d3002?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "col-5",
+        "name": "Classic Cold Coffee",
+        "price": 258.7,
+        "description": "Smooth, refreshing, and eternally satisfying.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "col-6",
+        "name": "Hazelnut Frappe",
+        "price": 349.7,
+        "description": "A nutty, creamy frappe with a hint of roasted aroma.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "col-7",
+        "name": "Irish Frappe",
+        "price": 349.7,
+        "description": "Silky, cold espresso infused with Irish sweetness",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "col-8",
+        "name": "Mocha Frappe",
+        "price": 323.7,
+        "description": "Chocolate and espresso blended into icy perfection.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1460306855393-0410f61241c7?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "col-9",
+        "name": "Nutella Frappe",
+        "price": 388.7,
+        "description": "The decadence of Nutella meets chilled coffee bliss.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Matcha Creations",
+    "items": [
+      {
+        "id": "mat-1",
+        "name": "Hot Matcha Latte",
+        "price": 232.7,
+        "description": "Earthy matcha whisked into warm, velvety milk.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1515823662972-da6a2e4d3002?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "mat-2",
+        "name": "Iced Matcha Latte",
+        "price": 284.7,
+        "description": "Smooth, chilled matcha layered with ice and creamy milk",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "mat-3",
+        "name": "Iced Matcha Mango",
+        "price": 349.7,
+        "description": "A tropical balance of matcha and sun-ripened mango.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "mat-4",
+        "name": "Spanish Matcha Latte",
+        "price": 323.7,
+        "description": "Matcha with a sweet Spanish twist",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Cold Brews",
+    "items": [
+      {
+        "id": "col-1",
+        "name": "Classic Cold Brew",
+        "price": 245.7,
+        "description": "Pure, smooth, and refreshingly strong",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "col-2",
+        "name": "Coconut Cold Brew",
+        "price": 323.7,
+        "description": "Cold brew infused with creamy coconut for a mellow finish.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1460306855393-0410f61241c7?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "col-3",
+        "name": "Cold Brew Lemonade",
+        "price": 271.7,
+        "description": "Bright, citrusy, and revitalizing",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "col-4",
+        "name": "Cold Brew Tonic",
+        "price": 284.7,
+        "description": "Bold espresso meets sparkling tonic for a crisp contrast",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "col-5",
+        "name": "Orange Cinnamon Cold Brew",
+        "price": 297.7,
+        "description": "Zesty orange and warm cinnamon uplift every sip.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1518557342795-a22627cbcae3?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Iced Coffee",
+    "items": [
+      {
+        "id": "ice-1",
+        "name": "Iced Americano",
+        "price": 180.7,
+        "description": "Pure espresso poured over ice for a clean, crisp taste.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "ice-2",
+        "name": "Iced Cranberry Espresso",
+        "price": 232.7,
+        "description": "Espresso infused with cranberry",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1518557342795-a22627cbcae3?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "ice-3",
+        "name": "Iced Hazelnut Latte",
+        "price": 232.7,
+        "description": "A nutty, icy twist on the classic latte.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "ice-4",
+        "name": "Iced Latte",
+        "price": 193.7,
+        "description": "Cool, creamy perfection with a gentle espresso base.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "ice-5",
+        "name": "Iced Mint Espresso",
+        "price": 232.7,
+        "description": "Cool mint refreshes the bold espresso cor",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "ice-6",
+        "name": "Iced Mocha",
+        "price": 193.7,
+        "description": "A chilled harmony of chocolate and coffee",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1585409893049-74d6cce3f4dc?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "ice-7",
+        "name": "Iced Spanish Latte",
+        "price": 245.7,
+        "description": "Sweet, creamy, and perfectly refreshing.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "ice-8",
+        "name": "Iced Strawberry Latte",
+        "price": 232.7,
+        "description": "Strawberry sweetness meets chilled espresso and milk.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1515823662972-da6a2e4d3002?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Ice Teas",
+    "items": [
+      {
+        "id": "ice-1",
+        "name": "Black Currant Ice Tea",
+        "price": 232.7,
+        "description": "Deep berry tones with a tart finish.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "ice-2",
+        "name": "Lemon Ice Tea",
+        "price": 206.7,
+        "description": "Crisp, zesty, and timelessly refreshing.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "ice-3",
+        "name": "Lychee Ice Tea",
+        "price": 232.7,
+        "description": "Delicate floral sweetness and smooth chill.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1585409893049-74d6cce3f4dc?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "ice-4",
+        "name": "Passionfruit Ice Tea",
+        "price": 232.7,
+        "description": "Tropical brightness with a gentle tang.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "ice-5",
+        "name": "Peach Ice Tea",
+        "price": 219.7,
+        "description": "Sun-kissed peach in a soothing cold brew.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1515823662972-da6a2e4d3002?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "ice-6",
+        "name": "Redbull Ice Tea",
+        "price": 323.7,
+        "description": "A bold, energizing fusion of tea and vitality.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "ice-7",
+        "name": "Strawberry Ice Tea",
+        "price": 232.7,
+        "description": "Sweet, fragrant strawberries in every sip.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "ice-8",
+        "name": "Sydney Special Ice Tea",
+        "price": 349.7,
+        "description": "Our signature blend",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "ice-9",
+        "name": "Watermelon Ice Tea",
+        "price": 232.7,
+        "description": "Light, juicy, and perfectly summery.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1460306855393-0410f61241c7?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Hot Teas",
+    "items": [
+      {
+        "id": "hot-1",
+        "name": "Chamomile Tea",
+        "price": 193.7,
+        "description": "Floral, calming, and caffeine-free.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-2",
+        "name": "Earl Grey Tea",
+        "price": 193.7,
+        "description": "Elegant black tea with hints of citrus and bergamot",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1515823662972-da6a2e4d3002?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-3",
+        "name": "Jasmine Tea",
+        "price": 193.7,
+        "description": "Lightly perfumed with jasmine blossoms",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-4",
+        "name": "Peppermint Tea",
+        "price": 193.7,
+        "description": "Naturally refreshing and cooling.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Hot Chocolate",
+    "items": [
+      {
+        "id": "hot-1",
+        "name": "Classic European Hot Chocolate",
+        "price": 258.7,
+        "description": "Silky, indulgent, and timeless.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-2",
+        "name": "Frozen Nutella Cocoa",
+        "price": 258.7,
+        "description": "Chilled Nutella decadence with a cocoa finish",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-3",
+        "name": "Hot Chocolate With Crozzo",
+        "price": 414.7,
+        "description": "A premium pairing",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1460306855393-0410f61241c7?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-4",
+        "name": "Hot Chocolate With Marshmallow",
+        "price": 336.7,
+        "description": "Classic comfort topped with fluffy melt-in-mouth marshmallows.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-5",
+        "name": "Mint Dark Chocolate Chip",
+        "price": 323.7,
+        "description": "Nutty richness blended with molten chocolate",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-6",
+        "name": "Orange Zest Hot Chocolate",
+        "price": 310.7,
+        "description": "Citrus brightness in a smooth cocoa base",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1518557342795-a22627cbcae3?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-7",
+        "name": "Peanut Butter Hot Choco",
+        "price": 323.7,
+        "description": "Nutty richness blended with molten chocolate",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-8",
+        "name": "Rose White Hot Chocolate",
+        "price": 284.7,
+        "description": "Creamy white chocolate infused with rose petals.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-9",
+        "name": "Salted Caramel Hot Chocolate",
+        "price": 310.7,
+        "description": "Sweet meets salty in pure luxury",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "hot-10",
+        "name": "Spiced Mexican Hot Chocolate",
+        "price": 258.7,
+        "description": "Aromatic cocoa with a touch of warm spice.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1585409893049-74d6cce3f4dc?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Mocktails",
+    "items": [
+      {
+        "id": "moc-1",
+        "name": "Bondi Berry",
+        "price": 349.7,
+        "description": "Berry medley inspired by Bondi",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "moc-2",
+        "name": "Hazelnut Fizz",
+        "price": 323.7,
+        "description": "Sparkling soda meets mellow hazelnut sweetness.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "moc-3",
+        "name": "Lavender Mist",
+        "price": 323.7,
+        "description": "Delicate floral notes with a cooling touch",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1518557342795-a22627cbcae3?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "moc-4",
+        "name": "Lime Glow",
+        "price": 258.7,
+        "description": "Zesty lime and cooling mint",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "moc-5",
+        "name": "Mango Melody",
+        "price": 323.7,
+        "description": "Lush mango blended into tropical harmony",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "moc-6",
+        "name": "Ocean Whisper",
+        "price": 323.7,
+        "description": "Refreshing blue citrus with ocean-inspired calm.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "moc-7",
+        "name": "Pink Lady",
+        "price": 323.7,
+        "description": "A graceful pink fusion of berries and lemon zest",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1585409893049-74d6cce3f4dc?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "moc-8",
+        "name": "Sydney Sunrise",
+        "price": 349.7,
+        "description": "Layers of orange and grenadine evoke a perfect dawn.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "moc-9",
+        "name": "Tropical Zing",
+        "price": 323.7,
+        "description": "A lively blend of exotic fruits and citrus sparkle",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1515823662972-da6a2e4d3002?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  },
+  {
+    "category": "Milk Shakes",
+    "items": [
+      {
+        "id": "mil-1",
+        "name": "Banana Peanut Butter Shake",
+        "price": 336.7,
+        "description": "Protein-rich indulgence with nutty balance",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "mil-2",
+        "name": "Berry Cookies Shake",
+        "price": 336.7,
+        "description": "Cookie crunch with a fruity twist.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "mil-3",
+        "name": "Biscoff Shake",
+        "price": 336.7,
+        "description": "Crisp Biscoff flavor meets creamy perfection",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "mil-4",
+        "name": "Black Currant Shake",
+        "price": 258.7,
+        "description": "Sweet-tart currants in a smooth creamy base.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1585409893049-74d6cce3f4dc?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "mil-5",
+        "name": "Choco Nutella Shake",
+        "price": 323.7,
+        "description": "Silky Nutella decadence in liquid form.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "mil-6",
+        "name": "Classic Chocolate Shake",
+        "price": 258.7,
+        "description": "Pure chocolate pleasure",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1515823662972-da6a2e4d3002?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "mil-7",
+        "name": "Delicious Brownie Shake",
+        "price": 310.7,
+        "description": "Chocolate shake blended with fudgy brownie bits.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "mil-8",
+        "name": "Kit Kat Shake",
+        "price": 310.7,
+        "description": "Classic crunch meets creamy chocolate delight.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "mil-9",
+        "name": "Mango Magic Shake",
+        "price": 258.7,
+        "description": "Golden mangoes blended with cool milk and ice cream",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "mil-10",
+        "name": "Mixberry Melody Shake",
+        "price": 323.7,
+        "description": "A medley of berries swirled into frothy magic.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1460306855393-0410f61241c7?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "mil-11",
+        "name": "Oreo Delight Shake",
+        "price": 310.7,
+        "description": "Crushed Oreos blended into creamy bliss",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "mil-12",
+        "name": "Red Velvet Shake",
+        "price": 323.7,
+        "description": "Velvety smooth, rich, and elegantly sweet.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "mil-13",
+        "name": "Strawberry Bless Shake",
+        "price": 258.7,
+        "description": "A burst of ripe strawberries in every sip.",
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1518557342795-a22627cbcae3?q=80&w=800&auto=format&fit=crop"
+      }
+    ]
+  }
+]
