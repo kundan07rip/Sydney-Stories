@@ -1,73 +1,109 @@
-# React + TypeScript + Vite
+# Sydney Stories — Premium Cafe Frontend Experience
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Sydney Stories Aesthetic](https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?q=80&w=1200&auto=format&fit=crop)
 
-Currently, two official plugins are available:
+A high-converting, cinematic, and immersive digital experience built for **Sydney Stories**, a luxury urban café and premium dining experience located in MTM High Street, Bhilwara.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a `$5,000+` boutique agency-grade frontend production—polished, immersive, refined, and emotionally engaging.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✦ The Vibe & Aesthetic
+- **Visuals**: Rich dark wood textures, deep espresso browns, charcoal blacks, and warm amber/gold accents.
+- **Mood**: Warm, Sophisticated, Intimate, Contemporary Urban Luxury.
+- **Typography**: High-contrast luxury serif (`Playfair Display`) paired with clean sans-serif (`Inter`).
+- **Interaction**: Immersive smooth scrolling, liquid magnetic cursors, glassmorphism overlays, and 60fps micro-animations.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 🛠 Tech Stack
+This project leverages a modern, highly optimized architecture:
+- **Framework**: [React](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/)
+- **Routing**: [React Router v6](https://reactrouter.com/)
+- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
+- **Animation Engine**: [Framer Motion](https://www.framer.com/motion/)
+- **Scroll Physics**: [Lenis (Studio Freight)](https://lenis.darkroom.engineering/)
+- **Icons**: [Lucide React](https://lucide.dev/)
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+---
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## 🎯 Key Features
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+### Cinematic Landing Page (`/`)
+- **Immersive Hero**: Looping atmospheric background video with staggered typography entrances.
+- **"The Story" Split-Layout**: Elegant editorial copy layered alongside subtle, parallax-driven overlapping image cards.
+- **Bento Menu Teaser**: Asymmetrical hover-reactive grid pulling focus to signature offerings.
+- **Atmosphere Gallery**: A pure-CSS masonry layout featuring cinematic sepia/grain color-grading.
+
+### Dedicated Menu Experience (`/menu`)
+- **Full Architecture Data**: 83+ items spanning 18 unique categories powered by a robust JSON architecture.
+- **Glassmorphism Filter Bar**: Real-time local search and horizontal scrolling category tabs.
+- **Dietary Toggles**: An animated "Pure Veg" switch that live-filters the grid.
+- **Framer `layout` Grid**: Beautiful 60fps cascading shuffle animations when filters change state.
+- **Premium Cards**: Image hover-zooms, unified price styling, and magnetic "Add" buttons.
+
+### Agency-Grade Polish
+- **Custom Liquid Cursor**: A magnetic dot cursor that snaps to interactive elements (buttons, links).
+- **Smooth Scrolling Wrapper**: Overriding native browser scroll for buttery, inertial parallax effects via Lenis.
+- **Performance**: Strict sub-100ms TTI targets, lazy loaded components, and CSS hardware-acceleration clipping.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v18+)
+- npm or pnpm
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/kundan07rip/Sydney-Stories.git
+   cd Sydney-Stories
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for production:**
+   ```bash
+   npm run build
+   ```
+
+5. **Preview production build:**
+   ```bash
+   npm run preview
+   ```
+
+---
+
+## 📁 Project Structure
+
+```text
+src/
+├── components/
+│   ├── layout/       # Global Navbar, Footer, SmoothScroll wrapper
+│   └── ui/           # Reusable micro-components (Cursor, MenuCard)
+├── data/
+│   └── menu.json     # 83+ structured cafe items
+├── pages/
+│   ├── Home.tsx      # Main cinematic landing page
+│   └── Menu.tsx      # Dedicated filtering/grid experience
+├── sections/         # Home page module shards (Hero, About, Gallery)
+├── utils/            # Helper functions (`cn` tailwind merge)
+├── App.tsx           # React Router implementation
+└── index.css         # Reset, Tailwind, Fonts, and Lenis logic
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+---
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## 📝 License
+Design & Architecture developed for **Sydney Stories Café**. All rights reserved.
